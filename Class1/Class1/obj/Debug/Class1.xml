@@ -22,5 +22,10 @@ Class1
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:Class1.My.Resources.Resources.politeknik_muadzam_shah">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 </members>
 </doc>
