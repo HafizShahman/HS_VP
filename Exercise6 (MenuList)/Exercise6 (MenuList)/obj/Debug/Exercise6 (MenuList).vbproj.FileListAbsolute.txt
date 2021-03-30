@@ -1,0 +1,12 @@
+C:\Users\hafiz\source\repos\Exercise6 (MenuList)\Exercise6 (MenuList)\bin\Debug\Exercise6 (MenuList).exe.config
+C:\Users\hafiz\source\repos\Exercise6 (MenuList)\Exercise6 (MenuList)\bin\Debug\Exercise6 (MenuList).exe
+C:\Users\hafiz\source\repos\Exercise6 (MenuList)\Exercise6 (MenuList)\bin\Debug\Exercise6 (MenuList).pdb
+C:\Users\hafiz\source\repos\Exercise6 (MenuList)\Exercise6 (MenuList)\bin\Debug\Exercise6 (MenuList).xml
+C:\Users\hafiz\source\repos\Exercise6 (MenuList)\Exercise6 (MenuList)\obj\Debug\Exercise6 (MenuList).vbprojAssemblyReference.cache
+C:\Users\hafiz\source\repos\Exercise6 (MenuList)\Exercise6 (MenuList)\obj\Debug\Exercise6__MenuList_.Form1.resources
+C:\Users\hafiz\source\repos\Exercise6 (MenuList)\Exercise6 (MenuList)\obj\Debug\Exercise6__MenuList_.Resources.resources
+C:\Users\hafiz\source\repos\Exercise6 (MenuList)\Exercise6 (MenuList)\obj\Debug\Exercise6 (MenuList).vbproj.GenerateResource.cache
+C:\Users\hafiz\source\repos\Exercise6 (MenuList)\Exercise6 (MenuList)\obj\Debug\Exercise6 (MenuList).vbproj.CoreCompileInputs.cache
+C:\Users\hafiz\source\repos\Exercise6 (MenuList)\Exercise6 (MenuList)\obj\Debug\Exercise6 (MenuList).exe
+C:\Users\hafiz\source\repos\Exercise6 (MenuList)\Exercise6 (MenuList)\obj\Debug\Exercise6 (MenuList).xml
+C:\Users\hafiz\source\repos\Exercise6 (MenuList)\Exercise6 (MenuList)\obj\Debug\Exercise6 (MenuList).pdb

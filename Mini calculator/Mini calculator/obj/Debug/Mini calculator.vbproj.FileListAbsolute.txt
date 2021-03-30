@@ -1,0 +1,12 @@
+C:\Users\hafiz\Documents\GitHub\HS_VP\Mini calculator\Mini calculator\bin\Debug\Mini calculator.exe.config
+C:\Users\hafiz\Documents\GitHub\HS_VP\Mini calculator\Mini calculator\bin\Debug\Mini calculator.exe
+C:\Users\hafiz\Documents\GitHub\HS_VP\Mini calculator\Mini calculator\bin\Debug\Mini calculator.pdb
+C:\Users\hafiz\Documents\GitHub\HS_VP\Mini calculator\Mini calculator\bin\Debug\Mini calculator.xml
+C:\Users\hafiz\Documents\GitHub\HS_VP\Mini calculator\Mini calculator\obj\Debug\Mini calculator.vbprojAssemblyReference.cache
+C:\Users\hafiz\Documents\GitHub\HS_VP\Mini calculator\Mini calculator\obj\Debug\Mini_calculator.Form1.resources
+C:\Users\hafiz\Documents\GitHub\HS_VP\Mini calculator\Mini calculator\obj\Debug\Mini_calculator.Resources.resources
+C:\Users\hafiz\Documents\GitHub\HS_VP\Mini calculator\Mini calculator\obj\Debug\Mini calculator.vbproj.GenerateResource.cache
+C:\Users\hafiz\Documents\GitHub\HS_VP\Mini calculator\Mini calculator\obj\Debug\Mini calculator.vbproj.CoreCompileInputs.cache
+C:\Users\hafiz\Documents\GitHub\HS_VP\Mini calculator\Mini calculator\obj\Debug\Mini calculator.exe
+C:\Users\hafiz\Documents\GitHub\HS_VP\Mini calculator\Mini calculator\obj\Debug\Mini calculator.xml
+C:\Users\hafiz\Documents\GitHub\HS_VP\Mini calculator\Mini calculator\obj\Debug\Mini calculator.pdb
