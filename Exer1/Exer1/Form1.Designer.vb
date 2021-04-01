@@ -74,7 +74,7 @@ Partial Class Form1
         'lblOutput
         '
         Me.lblOutput.AutoSize = True
-        Me.lblOutput.Location = New System.Drawing.Point(91, 63)
+        Me.lblOutput.Location = New System.Drawing.Point(100, 53)
         Me.lblOutput.Name = "lblOutput"
         Me.lblOutput.Size = New System.Drawing.Size(39, 13)
         Me.lblOutput.TabIndex = 0
@@ -82,7 +82,7 @@ Partial Class Form1
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(71, 118)
+        Me.Button1.Location = New System.Drawing.Point(81, 115)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 23)
         Me.Button1.TabIndex = 1
@@ -100,22 +100,26 @@ Partial Class Form1
         '
         'GroupBox1
         '
+        Me.GroupBox1.BackColor = System.Drawing.SystemColors.ActiveBorder
         Me.GroupBox1.Controls.Add(Me.Button2)
-        Me.GroupBox1.Location = New System.Drawing.Point(265, 23)
+        Me.GroupBox1.Location = New System.Drawing.Point(480, 23)
         Me.GroupBox1.Name = "GroupBox1"
         Me.GroupBox1.Size = New System.Drawing.Size(204, 195)
         Me.GroupBox1.TabIndex = 3
         Me.GroupBox1.TabStop = False
+        Me.GroupBox1.Text = "Exercise 2"
         '
         'GroupBox2
         '
+        Me.GroupBox2.BackColor = System.Drawing.SystemColors.ActiveBorder
         Me.GroupBox2.Controls.Add(Me.lblOutput)
         Me.GroupBox2.Controls.Add(Me.Button1)
-        Me.GroupBox2.Location = New System.Drawing.Point(21, 23)
+        Me.GroupBox2.Location = New System.Drawing.Point(104, 23)
         Me.GroupBox2.Name = "GroupBox2"
         Me.GroupBox2.Size = New System.Drawing.Size(238, 195)
         Me.GroupBox2.TabIndex = 4
         Me.GroupBox2.TabStop = False
+        Me.GroupBox2.Text = "Exercise 1"
         '
         'TabControl1
         '
@@ -123,7 +127,7 @@ Partial Class Form1
         Me.TabControl1.Controls.Add(Me.TabPage2)
         Me.TabControl1.Controls.Add(Me.TabPage3)
         Me.TabControl1.Controls.Add(Me.TabPage4)
-        Me.TabControl1.Location = New System.Drawing.Point(21, 224)
+        Me.TabControl1.Location = New System.Drawing.Point(137, 224)
         Me.TabControl1.Name = "TabControl1"
         Me.TabControl1.SelectedIndex = 0
         Me.TabControl1.Size = New System.Drawing.Size(508, 189)
@@ -131,6 +135,7 @@ Partial Class Form1
         '
         'TabPage1
         '
+        Me.TabPage1.BackColor = System.Drawing.Color.Silver
         Me.TabPage1.Controls.Add(Me.btnCal)
         Me.TabPage1.Controls.Add(Me.txtProfit)
         Me.TabPage1.Controls.Add(Me.txtUnit)
@@ -146,7 +151,6 @@ Partial Class Form1
         Me.TabPage1.Size = New System.Drawing.Size(500, 163)
         Me.TabPage1.TabIndex = 0
         Me.TabPage1.Text = "TabPage1"
-        Me.TabPage1.UseVisualStyleBackColor = True
         '
         'btnCal
         '
@@ -223,6 +227,7 @@ Partial Class Form1
         '
         'TabPage2
         '
+        Me.TabPage2.BackColor = System.Drawing.Color.Silver
         Me.TabPage2.Controls.Add(Me.btnCal2)
         Me.TabPage2.Controls.Add(Me.txtSpeed)
         Me.TabPage2.Controls.Add(Me.txtTime)
@@ -236,7 +241,6 @@ Partial Class Form1
         Me.TabPage2.Size = New System.Drawing.Size(500, 163)
         Me.TabPage2.TabIndex = 1
         Me.TabPage2.Text = "TabPage2"
-        Me.TabPage2.UseVisualStyleBackColor = True
         '
         'btnCal2
         '
@@ -297,6 +301,7 @@ Partial Class Form1
         '
         'TabPage3
         '
+        Me.TabPage3.BackColor = System.Drawing.Color.Silver
         Me.TabPage3.Controls.Add(Me.txtFahr)
         Me.TabPage3.Controls.Add(Me.btnConvert)
         Me.TabPage3.Controls.Add(Me.txtCel)
@@ -308,7 +313,6 @@ Partial Class Form1
         Me.TabPage3.Size = New System.Drawing.Size(500, 163)
         Me.TabPage3.TabIndex = 2
         Me.TabPage3.Text = "TabPage3"
-        Me.TabPage3.UseVisualStyleBackColor = True
         '
         'txtFahr
         '
@@ -353,6 +357,7 @@ Partial Class Form1
         '
         'TabPage4
         '
+        Me.TabPage4.BackColor = System.Drawing.Color.Silver
         Me.TabPage4.Controls.Add(Me.btnCalParcel)
         Me.TabPage4.Controls.Add(Me.Label13)
         Me.TabPage4.Controls.Add(Me.Label12)
@@ -368,7 +373,6 @@ Partial Class Form1
         Me.TabPage4.Size = New System.Drawing.Size(500, 163)
         Me.TabPage4.TabIndex = 3
         Me.TabPage4.Text = "TabPage4"
-        Me.TabPage4.UseVisualStyleBackColor = True
         '
         'btnCalParcel
         '
@@ -447,6 +451,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.Color.Moccasin
         Me.ClientSize = New System.Drawing.Size(800, 450)
         Me.Controls.Add(Me.TabControl1)
         Me.Controls.Add(Me.GroupBox2)
