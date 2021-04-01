@@ -40,7 +40,7 @@
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles btnConvert.Click
         Dim n6 As Integer
 
-        n6 = txtFah.Text
+        n6 = txtFahr.Text
         txtCel.Text = (5 / 5) * (n6 - 32)
 
     End Sub
@@ -53,4 +53,5 @@
         n9 = txtWeight.Text
         txtCDel.Text = n7 * n8 + n9
     End Sub
+
 End Class

@@ -47,21 +47,21 @@ Partial Class Form1
         Me.Label6 = New System.Windows.Forms.Label()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.TabPage3 = New System.Windows.Forms.TabPage()
+        Me.txtFahr = New System.Windows.Forms.TextBox()
         Me.btnConvert = New System.Windows.Forms.Button()
-        Me.txtFah = New System.Windows.Forms.TextBox()
         Me.txtCel = New System.Windows.Forms.TextBox()
         Me.Label9 = New System.Windows.Forms.Label()
         Me.Label8 = New System.Windows.Forms.Label()
         Me.TabPage4 = New System.Windows.Forms.TabPage()
-        Me.txtDist = New System.Windows.Forms.TextBox()
-        Me.txtCos = New System.Windows.Forms.TextBox()
-        Me.txtWeight = New System.Windows.Forms.TextBox()
-        Me.txtCDel = New System.Windows.Forms.TextBox()
-        Me.Label10 = New System.Windows.Forms.Label()
-        Me.Label11 = New System.Windows.Forms.Label()
-        Me.Label12 = New System.Windows.Forms.Label()
-        Me.Label13 = New System.Windows.Forms.Label()
         Me.btnCalParcel = New System.Windows.Forms.Button()
+        Me.Label13 = New System.Windows.Forms.Label()
+        Me.Label12 = New System.Windows.Forms.Label()
+        Me.Label11 = New System.Windows.Forms.Label()
+        Me.Label10 = New System.Windows.Forms.Label()
+        Me.txtCDel = New System.Windows.Forms.TextBox()
+        Me.txtWeight = New System.Windows.Forms.TextBox()
+        Me.txtCos = New System.Windows.Forms.TextBox()
+        Me.txtDist = New System.Windows.Forms.TextBox()
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         Me.TabControl1.SuspendLayout()
@@ -150,7 +150,7 @@ Partial Class Form1
         '
         'btnCal
         '
-        Me.btnCal.Location = New System.Drawing.Point(240, 42)
+        Me.btnCal.Location = New System.Drawing.Point(240, 75)
         Me.btnCal.Name = "btnCal"
         Me.btnCal.Size = New System.Drawing.Size(171, 46)
         Me.btnCal.TabIndex = 8
@@ -159,7 +159,7 @@ Partial Class Form1
         '
         'txtProfit
         '
-        Me.txtProfit.Location = New System.Drawing.Point(90, 94)
+        Me.txtProfit.Location = New System.Drawing.Point(90, 119)
         Me.txtProfit.Name = "txtProfit"
         Me.txtProfit.Size = New System.Drawing.Size(110, 20)
         Me.txtProfit.TabIndex = 7
@@ -188,7 +188,7 @@ Partial Class Form1
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(26, 101)
+        Me.Label4.Location = New System.Drawing.Point(26, 122)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(58, 13)
         Me.Label4.TabIndex = 3
@@ -240,7 +240,7 @@ Partial Class Form1
         '
         'btnCal2
         '
-        Me.btnCal2.Location = New System.Drawing.Point(285, 35)
+        Me.btnCal2.Location = New System.Drawing.Point(240, 68)
         Me.btnCal2.Name = "btnCal2"
         Me.btnCal2.Size = New System.Drawing.Size(105, 47)
         Me.btnCal2.TabIndex = 6
@@ -249,7 +249,7 @@ Partial Class Form1
         '
         'txtSpeed
         '
-        Me.txtSpeed.Location = New System.Drawing.Point(106, 76)
+        Me.txtSpeed.Location = New System.Drawing.Point(106, 114)
         Me.txtSpeed.Name = "txtSpeed"
         Me.txtSpeed.Size = New System.Drawing.Size(128, 20)
         Me.txtSpeed.TabIndex = 5
@@ -271,7 +271,7 @@ Partial Class Form1
         'Label7
         '
         Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(31, 79)
+        Me.Label7.Location = New System.Drawing.Point(31, 117)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(38, 13)
         Me.Label7.TabIndex = 2
@@ -297,8 +297,8 @@ Partial Class Form1
         '
         'TabPage3
         '
+        Me.TabPage3.Controls.Add(Me.txtFahr)
         Me.TabPage3.Controls.Add(Me.btnConvert)
-        Me.TabPage3.Controls.Add(Me.txtFah)
         Me.TabPage3.Controls.Add(Me.txtCel)
         Me.TabPage3.Controls.Add(Me.Label9)
         Me.TabPage3.Controls.Add(Me.Label8)
@@ -310,25 +310,25 @@ Partial Class Form1
         Me.TabPage3.Text = "TabPage3"
         Me.TabPage3.UseVisualStyleBackColor = True
         '
+        'txtFahr
+        '
+        Me.txtFahr.Location = New System.Drawing.Point(146, 44)
+        Me.txtFahr.Name = "txtFahr"
+        Me.txtFahr.Size = New System.Drawing.Size(100, 20)
+        Me.txtFahr.TabIndex = 5
+        '
         'btnConvert
         '
-        Me.btnConvert.Location = New System.Drawing.Point(294, 48)
+        Me.btnConvert.Location = New System.Drawing.Point(299, 56)
         Me.btnConvert.Name = "btnConvert"
         Me.btnConvert.Size = New System.Drawing.Size(103, 42)
         Me.btnConvert.TabIndex = 4
         Me.btnConvert.Text = "Convert"
         Me.btnConvert.UseVisualStyleBackColor = True
         '
-        'txtFah
-        '
-        Me.txtFah.Location = New System.Drawing.Point(138, 90)
-        Me.txtFah.Name = "txtFah"
-        Me.txtFah.Size = New System.Drawing.Size(100, 20)
-        Me.txtFah.TabIndex = 3
-        '
         'txtCel
         '
-        Me.txtCel.Location = New System.Drawing.Point(138, 31)
+        Me.txtCel.Location = New System.Drawing.Point(146, 99)
         Me.txtCel.Name = "txtCel"
         Me.txtCel.Size = New System.Drawing.Size(100, 20)
         Me.txtCel.TabIndex = 2
@@ -336,7 +336,7 @@ Partial Class Form1
         'Label9
         '
         Me.Label9.AutoSize = True
-        Me.Label9.Location = New System.Drawing.Point(42, 93)
+        Me.Label9.Location = New System.Drawing.Point(50, 47)
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(57, 13)
         Me.Label9.TabIndex = 1
@@ -345,7 +345,7 @@ Partial Class Form1
         'Label8
         '
         Me.Label8.AutoSize = True
-        Me.Label8.Location = New System.Drawing.Point(42, 34)
+        Me.Label8.Location = New System.Drawing.Point(50, 102)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(41, 13)
         Me.Label8.TabIndex = 0
@@ -370,51 +370,23 @@ Partial Class Form1
         Me.TabPage4.Text = "TabPage4"
         Me.TabPage4.UseVisualStyleBackColor = True
         '
-        'txtDist
+        'btnCalParcel
         '
-        Me.txtDist.Location = New System.Drawing.Point(161, 26)
-        Me.txtDist.Name = "txtDist"
-        Me.txtDist.Size = New System.Drawing.Size(175, 20)
-        Me.txtDist.TabIndex = 0
+        Me.btnCalParcel.Location = New System.Drawing.Point(359, 94)
+        Me.btnCalParcel.Name = "btnCalParcel"
+        Me.btnCalParcel.Size = New System.Drawing.Size(100, 47)
+        Me.btnCalParcel.TabIndex = 8
+        Me.btnCalParcel.Text = "Calculate"
+        Me.btnCalParcel.UseVisualStyleBackColor = True
         '
-        'txtCos
+        'Label13
         '
-        Me.txtCos.Location = New System.Drawing.Point(161, 53)
-        Me.txtCos.Name = "txtCos"
-        Me.txtCos.Size = New System.Drawing.Size(175, 20)
-        Me.txtCos.TabIndex = 1
-        '
-        'txtWeight
-        '
-        Me.txtWeight.Location = New System.Drawing.Point(161, 80)
-        Me.txtWeight.Name = "txtWeight"
-        Me.txtWeight.Size = New System.Drawing.Size(175, 20)
-        Me.txtWeight.TabIndex = 2
-        '
-        'txtCDel
-        '
-        Me.txtCDel.Location = New System.Drawing.Point(161, 107)
-        Me.txtCDel.Name = "txtCDel"
-        Me.txtCDel.Size = New System.Drawing.Size(175, 20)
-        Me.txtCDel.TabIndex = 3
-        '
-        'Label10
-        '
-        Me.Label10.AutoSize = True
-        Me.Label10.Location = New System.Drawing.Point(64, 29)
-        Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(49, 13)
-        Me.Label10.TabIndex = 4
-        Me.Label10.Text = "Distance"
-        '
-        'Label11
-        '
-        Me.Label11.AutoSize = True
-        Me.Label11.Location = New System.Drawing.Point(64, 56)
-        Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(28, 13)
-        Me.Label11.TabIndex = 5
-        Me.Label11.Text = "Cost"
+        Me.Label13.AutoSize = True
+        Me.Label13.Location = New System.Drawing.Point(64, 140)
+        Me.Label13.Name = "Label13"
+        Me.Label13.Size = New System.Drawing.Size(69, 13)
+        Me.Label13.TabIndex = 7
+        Me.Label13.Text = "Cost Delivery"
         '
         'Label12
         '
@@ -425,23 +397,51 @@ Partial Class Form1
         Me.Label12.TabIndex = 6
         Me.Label12.Text = "Parcel Weight"
         '
-        'Label13
+        'Label11
         '
-        Me.Label13.AutoSize = True
-        Me.Label13.Location = New System.Drawing.Point(64, 110)
-        Me.Label13.Name = "Label13"
-        Me.Label13.Size = New System.Drawing.Size(69, 13)
-        Me.Label13.TabIndex = 7
-        Me.Label13.Text = "Cost Delivery"
+        Me.Label11.AutoSize = True
+        Me.Label11.Location = New System.Drawing.Point(64, 56)
+        Me.Label11.Name = "Label11"
+        Me.Label11.Size = New System.Drawing.Size(28, 13)
+        Me.Label11.TabIndex = 5
+        Me.Label11.Text = "Cost"
         '
-        'btnCalParcel
+        'Label10
         '
-        Me.btnCalParcel.Location = New System.Drawing.Point(373, 53)
-        Me.btnCalParcel.Name = "btnCalParcel"
-        Me.btnCalParcel.Size = New System.Drawing.Size(100, 47)
-        Me.btnCalParcel.TabIndex = 8
-        Me.btnCalParcel.Text = "Calculate"
-        Me.btnCalParcel.UseVisualStyleBackColor = True
+        Me.Label10.AutoSize = True
+        Me.Label10.Location = New System.Drawing.Point(64, 29)
+        Me.Label10.Name = "Label10"
+        Me.Label10.Size = New System.Drawing.Size(49, 13)
+        Me.Label10.TabIndex = 4
+        Me.Label10.Text = "Distance"
+        '
+        'txtCDel
+        '
+        Me.txtCDel.Location = New System.Drawing.Point(161, 137)
+        Me.txtCDel.Name = "txtCDel"
+        Me.txtCDel.Size = New System.Drawing.Size(175, 20)
+        Me.txtCDel.TabIndex = 3
+        '
+        'txtWeight
+        '
+        Me.txtWeight.Location = New System.Drawing.Point(161, 80)
+        Me.txtWeight.Name = "txtWeight"
+        Me.txtWeight.Size = New System.Drawing.Size(175, 20)
+        Me.txtWeight.TabIndex = 2
+        '
+        'txtCos
+        '
+        Me.txtCos.Location = New System.Drawing.Point(161, 53)
+        Me.txtCos.Name = "txtCos"
+        Me.txtCos.Size = New System.Drawing.Size(175, 20)
+        Me.txtCos.TabIndex = 1
+        '
+        'txtDist
+        '
+        Me.txtDist.Location = New System.Drawing.Point(161, 26)
+        Me.txtDist.Name = "txtDist"
+        Me.txtDist.Size = New System.Drawing.Size(175, 20)
+        Me.txtDist.TabIndex = 0
         '
         'Form1
         '
@@ -495,7 +495,6 @@ Partial Class Form1
     Friend WithEvents Label5 As Label
     Friend WithEvents TabPage3 As TabPage
     Friend WithEvents btnConvert As Button
-    Friend WithEvents txtFah As TextBox
     Friend WithEvents txtCel As TextBox
     Friend WithEvents Label9 As Label
     Friend WithEvents Label8 As Label
@@ -509,4 +508,5 @@ Partial Class Form1
     Friend WithEvents txtCos As TextBox
     Friend WithEvents txtDist As TextBox
     Friend WithEvents btnCalParcel As Button
+    Friend WithEvents txtFahr As TextBox
 End Class
