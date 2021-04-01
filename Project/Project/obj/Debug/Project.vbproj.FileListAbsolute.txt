@@ -1,0 +1,13 @@
+C:\Users\hafiz\Documents\GitHub\HS_VP\Project\Project\bin\Debug\Project.exe.config
+C:\Users\hafiz\Documents\GitHub\HS_VP\Project\Project\bin\Debug\Project.exe
+C:\Users\hafiz\Documents\GitHub\HS_VP\Project\Project\bin\Debug\Project.pdb
+C:\Users\hafiz\Documents\GitHub\HS_VP\Project\Project\bin\Debug\Project.xml
+C:\Users\hafiz\Documents\GitHub\HS_VP\Project\Project\obj\Debug\Project.vbprojAssemblyReference.cache
+C:\Users\hafiz\Documents\GitHub\HS_VP\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\hafiz\Documents\GitHub\HS_VP\Project\Project\obj\Debug\Project.Resources.resources
+C:\Users\hafiz\Documents\GitHub\HS_VP\Project\Project\obj\Debug\Project.vbproj.GenerateResource.cache
+C:\Users\hafiz\Documents\GitHub\HS_VP\Project\Project\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+C:\Users\hafiz\Documents\GitHub\HS_VP\Project\Project\obj\Debug\Project.exe
+C:\Users\hafiz\Documents\GitHub\HS_VP\Project\Project\obj\Debug\Project.xml
+C:\Users\hafiz\Documents\GitHub\HS_VP\Project\Project\obj\Debug\Project.pdb
+C:\Users\hafiz\Documents\GitHub\HS_VP\Project\Project\obj\Debug\Project.Form2.resources

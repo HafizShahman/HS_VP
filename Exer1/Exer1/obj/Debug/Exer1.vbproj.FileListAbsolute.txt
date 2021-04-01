@@ -1,0 +1,12 @@
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer1\Exer1\bin\Debug\Exer1.exe.config
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer1\Exer1\bin\Debug\Exer1.exe
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer1\Exer1\bin\Debug\Exer1.pdb
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer1\Exer1\bin\Debug\Exer1.xml
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer1\Exer1\obj\Debug\Exer1.vbprojAssemblyReference.cache
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer1\Exer1\obj\Debug\Exer1.Form1.resources
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer1\Exer1\obj\Debug\Exer1.Resources.resources
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer1\Exer1\obj\Debug\Exer1.vbproj.GenerateResource.cache
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer1\Exer1\obj\Debug\Exer1.vbproj.CoreCompileInputs.cache
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer1\Exer1\obj\Debug\Exer1.exe
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer1\Exer1\obj\Debug\Exer1.xml
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer1\Exer1\obj\Debug\Exer1.pdb
