@@ -74,26 +74,29 @@ Partial Class Form1
         'lblOutput
         '
         Me.lblOutput.AutoSize = True
-        Me.lblOutput.Location = New System.Drawing.Point(100, 53)
+        Me.lblOutput.Location = New System.Drawing.Point(205, 66)
+        Me.lblOutput.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblOutput.Name = "lblOutput"
-        Me.lblOutput.Size = New System.Drawing.Size(39, 13)
+        Me.lblOutput.Size = New System.Drawing.Size(51, 17)
         Me.lblOutput.TabIndex = 0
         Me.lblOutput.Text = "Label1"
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(81, 115)
+        Me.Button1.Location = New System.Drawing.Point(181, 148)
+        Me.Button1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(75, 23)
+        Me.Button1.Size = New System.Drawing.Size(100, 28)
         Me.Button1.TabIndex = 1
         Me.Button1.Text = "Click Here"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(59, 87)
+        Me.Button2.Location = New System.Drawing.Point(79, 107)
+        Me.Button2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(75, 23)
+        Me.Button2.Size = New System.Drawing.Size(100, 28)
         Me.Button2.TabIndex = 2
         Me.Button2.Text = "Message"
         Me.Button2.UseVisualStyleBackColor = True
@@ -102,9 +105,11 @@ Partial Class Form1
         '
         Me.GroupBox1.BackColor = System.Drawing.SystemColors.ActiveBorder
         Me.GroupBox1.Controls.Add(Me.Button2)
-        Me.GroupBox1.Location = New System.Drawing.Point(480, 23)
+        Me.GroupBox1.Location = New System.Drawing.Point(640, 28)
+        Me.GroupBox1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(204, 195)
+        Me.GroupBox1.Padding = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.GroupBox1.Size = New System.Drawing.Size(272, 240)
         Me.GroupBox1.TabIndex = 3
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Exercise 2"
@@ -114,9 +119,11 @@ Partial Class Form1
         Me.GroupBox2.BackColor = System.Drawing.SystemColors.ActiveBorder
         Me.GroupBox2.Controls.Add(Me.lblOutput)
         Me.GroupBox2.Controls.Add(Me.Button1)
-        Me.GroupBox2.Location = New System.Drawing.Point(104, 23)
+        Me.GroupBox2.Location = New System.Drawing.Point(139, 13)
+        Me.GroupBox2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.GroupBox2.Name = "GroupBox2"
-        Me.GroupBox2.Size = New System.Drawing.Size(238, 195)
+        Me.GroupBox2.Padding = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.GroupBox2.Size = New System.Drawing.Size(456, 255)
         Me.GroupBox2.TabIndex = 4
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "Exercise 1"
@@ -127,10 +134,11 @@ Partial Class Form1
         Me.TabControl1.Controls.Add(Me.TabPage2)
         Me.TabControl1.Controls.Add(Me.TabPage3)
         Me.TabControl1.Controls.Add(Me.TabPage4)
-        Me.TabControl1.Location = New System.Drawing.Point(137, 224)
+        Me.TabControl1.Location = New System.Drawing.Point(183, 276)
+        Me.TabControl1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TabControl1.Name = "TabControl1"
         Me.TabControl1.SelectedIndex = 0
-        Me.TabControl1.Size = New System.Drawing.Size(508, 189)
+        Me.TabControl1.Size = New System.Drawing.Size(677, 233)
         Me.TabControl1.TabIndex = 5
         '
         'TabPage1
@@ -145,83 +153,93 @@ Partial Class Form1
         Me.TabPage1.Controls.Add(Me.Label3)
         Me.TabPage1.Controls.Add(Me.Label2)
         Me.TabPage1.Controls.Add(Me.Label1)
-        Me.TabPage1.Location = New System.Drawing.Point(4, 22)
+        Me.TabPage1.Location = New System.Drawing.Point(4, 25)
+        Me.TabPage1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TabPage1.Name = "TabPage1"
-        Me.TabPage1.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage1.Size = New System.Drawing.Size(500, 163)
+        Me.TabPage1.Padding = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TabPage1.Size = New System.Drawing.Size(669, 204)
         Me.TabPage1.TabIndex = 0
         Me.TabPage1.Text = "TabPage1"
         '
         'btnCal
         '
-        Me.btnCal.Location = New System.Drawing.Point(240, 75)
+        Me.btnCal.Location = New System.Drawing.Point(320, 92)
+        Me.btnCal.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btnCal.Name = "btnCal"
-        Me.btnCal.Size = New System.Drawing.Size(171, 46)
+        Me.btnCal.Size = New System.Drawing.Size(228, 57)
         Me.btnCal.TabIndex = 8
         Me.btnCal.Text = "Calculate"
         Me.btnCal.UseVisualStyleBackColor = True
         '
         'txtProfit
         '
-        Me.txtProfit.Location = New System.Drawing.Point(90, 119)
+        Me.txtProfit.Location = New System.Drawing.Point(120, 146)
+        Me.txtProfit.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtProfit.Name = "txtProfit"
-        Me.txtProfit.Size = New System.Drawing.Size(110, 20)
+        Me.txtProfit.Size = New System.Drawing.Size(145, 22)
         Me.txtProfit.TabIndex = 7
         '
         'txtUnit
         '
-        Me.txtUnit.Location = New System.Drawing.Point(90, 68)
+        Me.txtUnit.Location = New System.Drawing.Point(120, 84)
+        Me.txtUnit.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtUnit.Name = "txtUnit"
-        Me.txtUnit.Size = New System.Drawing.Size(110, 20)
+        Me.txtUnit.Size = New System.Drawing.Size(145, 22)
         Me.txtUnit.TabIndex = 6
         '
         'txtCost
         '
-        Me.txtCost.Location = New System.Drawing.Point(90, 42)
+        Me.txtCost.Location = New System.Drawing.Point(120, 52)
+        Me.txtCost.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtCost.Name = "txtCost"
-        Me.txtCost.Size = New System.Drawing.Size(110, 20)
+        Me.txtCost.Size = New System.Drawing.Size(145, 22)
         Me.txtCost.TabIndex = 5
         '
         'txtPrice
         '
-        Me.txtPrice.Location = New System.Drawing.Point(90, 16)
+        Me.txtPrice.Location = New System.Drawing.Point(120, 20)
+        Me.txtPrice.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtPrice.Name = "txtPrice"
-        Me.txtPrice.Size = New System.Drawing.Size(110, 20)
+        Me.txtPrice.Size = New System.Drawing.Size(145, 22)
         Me.txtPrice.TabIndex = 4
         '
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(26, 122)
+        Me.Label4.Location = New System.Drawing.Point(35, 150)
+        Me.Label4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(58, 13)
+        Me.Label4.Size = New System.Drawing.Size(77, 17)
         Me.Label4.TabIndex = 3
         Me.Label4.Text = "Total Profit"
         '
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(26, 75)
+        Me.Label3.Location = New System.Drawing.Point(35, 92)
+        Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(26, 13)
+        Me.Label3.Size = New System.Drawing.Size(33, 17)
         Me.Label3.TabIndex = 2
         Me.Label3.Text = "Unit"
         '
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(26, 49)
+        Me.Label2.Location = New System.Drawing.Point(35, 60)
+        Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(28, 13)
+        Me.Label2.Size = New System.Drawing.Size(36, 17)
         Me.Label2.TabIndex = 1
         Me.Label2.Text = "Cost"
         '
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(26, 19)
+        Me.Label1.Location = New System.Drawing.Point(35, 23)
+        Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(31, 13)
+        Me.Label1.Size = New System.Drawing.Size(40, 17)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "Price"
         '
@@ -235,67 +253,75 @@ Partial Class Form1
         Me.TabPage2.Controls.Add(Me.Label7)
         Me.TabPage2.Controls.Add(Me.Label6)
         Me.TabPage2.Controls.Add(Me.Label5)
-        Me.TabPage2.Location = New System.Drawing.Point(4, 22)
+        Me.TabPage2.Location = New System.Drawing.Point(4, 25)
+        Me.TabPage2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TabPage2.Name = "TabPage2"
-        Me.TabPage2.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage2.Size = New System.Drawing.Size(500, 163)
+        Me.TabPage2.Padding = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TabPage2.Size = New System.Drawing.Size(669, 204)
         Me.TabPage2.TabIndex = 1
         Me.TabPage2.Text = "TabPage2"
         '
         'btnCal2
         '
-        Me.btnCal2.Location = New System.Drawing.Point(240, 68)
+        Me.btnCal2.Location = New System.Drawing.Point(320, 84)
+        Me.btnCal2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btnCal2.Name = "btnCal2"
-        Me.btnCal2.Size = New System.Drawing.Size(105, 47)
+        Me.btnCal2.Size = New System.Drawing.Size(140, 58)
         Me.btnCal2.TabIndex = 6
         Me.btnCal2.Text = "Calculate"
         Me.btnCal2.UseVisualStyleBackColor = True
         '
         'txtSpeed
         '
-        Me.txtSpeed.Location = New System.Drawing.Point(106, 114)
+        Me.txtSpeed.Location = New System.Drawing.Point(141, 140)
+        Me.txtSpeed.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtSpeed.Name = "txtSpeed"
-        Me.txtSpeed.Size = New System.Drawing.Size(128, 20)
+        Me.txtSpeed.Size = New System.Drawing.Size(169, 22)
         Me.txtSpeed.TabIndex = 5
         '
         'txtTime
         '
-        Me.txtTime.Location = New System.Drawing.Point(106, 49)
+        Me.txtTime.Location = New System.Drawing.Point(141, 60)
+        Me.txtTime.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtTime.Name = "txtTime"
-        Me.txtTime.Size = New System.Drawing.Size(128, 20)
+        Me.txtTime.Size = New System.Drawing.Size(169, 22)
         Me.txtTime.TabIndex = 4
         '
         'txtDis
         '
-        Me.txtDis.Location = New System.Drawing.Point(106, 22)
+        Me.txtDis.Location = New System.Drawing.Point(141, 27)
+        Me.txtDis.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtDis.Name = "txtDis"
-        Me.txtDis.Size = New System.Drawing.Size(128, 20)
+        Me.txtDis.Size = New System.Drawing.Size(169, 22)
         Me.txtDis.TabIndex = 3
         '
         'Label7
         '
         Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(31, 117)
+        Me.Label7.Location = New System.Drawing.Point(41, 144)
+        Me.Label7.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(38, 13)
+        Me.Label7.Size = New System.Drawing.Size(49, 17)
         Me.Label7.TabIndex = 2
         Me.Label7.Text = "Speed"
         '
         'Label6
         '
         Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(31, 52)
+        Me.Label6.Location = New System.Drawing.Point(41, 64)
+        Me.Label6.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(30, 13)
+        Me.Label6.Size = New System.Drawing.Size(39, 17)
         Me.Label6.TabIndex = 1
         Me.Label6.Text = "Time"
         '
         'Label5
         '
         Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(31, 25)
+        Me.Label5.Location = New System.Drawing.Point(41, 31)
+        Me.Label5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(49, 13)
+        Me.Label5.Size = New System.Drawing.Size(63, 17)
         Me.Label5.TabIndex = 0
         Me.Label5.Text = "Distance"
         '
@@ -307,51 +333,57 @@ Partial Class Form1
         Me.TabPage3.Controls.Add(Me.txtCel)
         Me.TabPage3.Controls.Add(Me.Label9)
         Me.TabPage3.Controls.Add(Me.Label8)
-        Me.TabPage3.Location = New System.Drawing.Point(4, 22)
+        Me.TabPage3.Location = New System.Drawing.Point(4, 25)
+        Me.TabPage3.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TabPage3.Name = "TabPage3"
-        Me.TabPage3.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage3.Size = New System.Drawing.Size(500, 163)
+        Me.TabPage3.Padding = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TabPage3.Size = New System.Drawing.Size(669, 204)
         Me.TabPage3.TabIndex = 2
         Me.TabPage3.Text = "TabPage3"
         '
         'txtFahr
         '
-        Me.txtFahr.Location = New System.Drawing.Point(146, 44)
+        Me.txtFahr.Location = New System.Drawing.Point(195, 54)
+        Me.txtFahr.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtFahr.Name = "txtFahr"
-        Me.txtFahr.Size = New System.Drawing.Size(100, 20)
+        Me.txtFahr.Size = New System.Drawing.Size(132, 22)
         Me.txtFahr.TabIndex = 5
         '
         'btnConvert
         '
-        Me.btnConvert.Location = New System.Drawing.Point(299, 56)
+        Me.btnConvert.Location = New System.Drawing.Point(399, 69)
+        Me.btnConvert.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btnConvert.Name = "btnConvert"
-        Me.btnConvert.Size = New System.Drawing.Size(103, 42)
+        Me.btnConvert.Size = New System.Drawing.Size(137, 52)
         Me.btnConvert.TabIndex = 4
         Me.btnConvert.Text = "Convert"
         Me.btnConvert.UseVisualStyleBackColor = True
         '
         'txtCel
         '
-        Me.txtCel.Location = New System.Drawing.Point(146, 99)
+        Me.txtCel.Location = New System.Drawing.Point(195, 122)
+        Me.txtCel.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtCel.Name = "txtCel"
-        Me.txtCel.Size = New System.Drawing.Size(100, 20)
+        Me.txtCel.Size = New System.Drawing.Size(132, 22)
         Me.txtCel.TabIndex = 2
         '
         'Label9
         '
         Me.Label9.AutoSize = True
-        Me.Label9.Location = New System.Drawing.Point(50, 47)
+        Me.Label9.Location = New System.Drawing.Point(67, 58)
+        Me.Label9.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(57, 13)
+        Me.Label9.Size = New System.Drawing.Size(76, 17)
         Me.Label9.TabIndex = 1
         Me.Label9.Text = "Fahrenheit"
         '
         'Label8
         '
         Me.Label8.AutoSize = True
-        Me.Label8.Location = New System.Drawing.Point(50, 102)
+        Me.Label8.Location = New System.Drawing.Point(67, 126)
+        Me.Label8.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(41, 13)
+        Me.Label8.Size = New System.Drawing.Size(53, 17)
         Me.Label8.TabIndex = 0
         Me.Label8.Text = "Celcius"
         '
@@ -367,18 +399,20 @@ Partial Class Form1
         Me.TabPage4.Controls.Add(Me.txtWeight)
         Me.TabPage4.Controls.Add(Me.txtCos)
         Me.TabPage4.Controls.Add(Me.txtDist)
-        Me.TabPage4.Location = New System.Drawing.Point(4, 22)
+        Me.TabPage4.Location = New System.Drawing.Point(4, 25)
+        Me.TabPage4.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TabPage4.Name = "TabPage4"
-        Me.TabPage4.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage4.Size = New System.Drawing.Size(500, 163)
+        Me.TabPage4.Padding = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TabPage4.Size = New System.Drawing.Size(669, 204)
         Me.TabPage4.TabIndex = 3
         Me.TabPage4.Text = "TabPage4"
         '
         'btnCalParcel
         '
-        Me.btnCalParcel.Location = New System.Drawing.Point(359, 94)
+        Me.btnCalParcel.Location = New System.Drawing.Point(479, 116)
+        Me.btnCalParcel.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btnCalParcel.Name = "btnCalParcel"
-        Me.btnCalParcel.Size = New System.Drawing.Size(100, 47)
+        Me.btnCalParcel.Size = New System.Drawing.Size(133, 58)
         Me.btnCalParcel.TabIndex = 8
         Me.btnCalParcel.Text = "Calculate"
         Me.btnCalParcel.UseVisualStyleBackColor = True
@@ -386,76 +420,85 @@ Partial Class Form1
         'Label13
         '
         Me.Label13.AutoSize = True
-        Me.Label13.Location = New System.Drawing.Point(64, 140)
+        Me.Label13.Location = New System.Drawing.Point(85, 172)
+        Me.Label13.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label13.Name = "Label13"
-        Me.Label13.Size = New System.Drawing.Size(69, 13)
+        Me.Label13.Size = New System.Drawing.Size(91, 17)
         Me.Label13.TabIndex = 7
         Me.Label13.Text = "Cost Delivery"
         '
         'Label12
         '
         Me.Label12.AutoSize = True
-        Me.Label12.Location = New System.Drawing.Point(64, 83)
+        Me.Label12.Location = New System.Drawing.Point(85, 102)
+        Me.Label12.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(74, 13)
+        Me.Label12.Size = New System.Drawing.Size(96, 17)
         Me.Label12.TabIndex = 6
         Me.Label12.Text = "Parcel Weight"
         '
         'Label11
         '
         Me.Label11.AutoSize = True
-        Me.Label11.Location = New System.Drawing.Point(64, 56)
+        Me.Label11.Location = New System.Drawing.Point(85, 69)
+        Me.Label11.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(28, 13)
+        Me.Label11.Size = New System.Drawing.Size(36, 17)
         Me.Label11.TabIndex = 5
         Me.Label11.Text = "Cost"
         '
         'Label10
         '
         Me.Label10.AutoSize = True
-        Me.Label10.Location = New System.Drawing.Point(64, 29)
+        Me.Label10.Location = New System.Drawing.Point(85, 36)
+        Me.Label10.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(49, 13)
+        Me.Label10.Size = New System.Drawing.Size(63, 17)
         Me.Label10.TabIndex = 4
         Me.Label10.Text = "Distance"
         '
         'txtCDel
         '
-        Me.txtCDel.Location = New System.Drawing.Point(161, 137)
+        Me.txtCDel.Location = New System.Drawing.Point(215, 169)
+        Me.txtCDel.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtCDel.Name = "txtCDel"
-        Me.txtCDel.Size = New System.Drawing.Size(175, 20)
+        Me.txtCDel.Size = New System.Drawing.Size(232, 22)
         Me.txtCDel.TabIndex = 3
         '
         'txtWeight
         '
-        Me.txtWeight.Location = New System.Drawing.Point(161, 80)
+        Me.txtWeight.Location = New System.Drawing.Point(215, 98)
+        Me.txtWeight.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtWeight.Name = "txtWeight"
-        Me.txtWeight.Size = New System.Drawing.Size(175, 20)
+        Me.txtWeight.Size = New System.Drawing.Size(232, 22)
         Me.txtWeight.TabIndex = 2
         '
         'txtCos
         '
-        Me.txtCos.Location = New System.Drawing.Point(161, 53)
+        Me.txtCos.Location = New System.Drawing.Point(215, 65)
+        Me.txtCos.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtCos.Name = "txtCos"
-        Me.txtCos.Size = New System.Drawing.Size(175, 20)
+        Me.txtCos.Size = New System.Drawing.Size(232, 22)
         Me.txtCos.TabIndex = 1
         '
         'txtDist
         '
-        Me.txtDist.Location = New System.Drawing.Point(161, 26)
+        Me.txtDist.Location = New System.Drawing.Point(215, 32)
+        Me.txtDist.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtDist.Name = "txtDist"
-        Me.txtDist.Size = New System.Drawing.Size(175, 20)
+        Me.txtDist.Size = New System.Drawing.Size(232, 22)
         Me.txtDist.TabIndex = 0
         '
         'Form1
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.Moccasin
-        Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.ClientSize = New System.Drawing.Size(1067, 554)
         Me.Controls.Add(Me.TabControl1)
         Me.Controls.Add(Me.GroupBox2)
         Me.Controls.Add(Me.GroupBox1)
+        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.Name = "Form1"
         Me.Text = "Form1"
         Me.GroupBox1.ResumeLayout(False)
