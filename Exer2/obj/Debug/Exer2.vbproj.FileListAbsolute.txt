@@ -1,0 +1,15 @@
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer2\bin\Debug\Exer2.exe.config
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer2\bin\Debug\Exer2.exe
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer2\bin\Debug\Exer2.pdb
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer2\bin\Debug\Exer2.xml
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer2\obj\Debug\Exer2.vbprojAssemblyReference.cache
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer2\obj\Debug\Exer2.Form1.resources
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer2\obj\Debug\Exer2.Resources.resources
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer2\obj\Debug\Exer2.vbproj.GenerateResource.cache
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer2\obj\Debug\Exer2.vbproj.CoreCompileInputs.cache
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer2\obj\Debug\Exer2.exe
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer2\obj\Debug\Exer2.xml
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer2\obj\Debug\Exer2.pdb
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer2\obj\Debug\Exer2.Form2.resources
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer2\obj\Debug\Exer2.Form3.resources
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exer2\obj\Debug\Exer2.Form4.resources
