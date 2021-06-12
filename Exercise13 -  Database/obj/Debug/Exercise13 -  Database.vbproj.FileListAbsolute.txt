@@ -1,0 +1,13 @@
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exercise13 -  Database\obj\Debug\Exercise13 -  Database.vbprojAssemblyReference.cache
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exercise13 -  Database\obj\Debug\Exercise13____Database.Form1.resources
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exercise13 -  Database\obj\Debug\Exercise13____Database.Form2.resources
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exercise13 -  Database\obj\Debug\Exercise13____Database.Resources.resources
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exercise13 -  Database\obj\Debug\Exercise13 -  Database.vbproj.GenerateResource.cache
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exercise13 -  Database\obj\Debug\Exercise13 -  Database.vbproj.CoreCompileInputs.cache
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exercise13 -  Database\bin\Debug\Exercise13 -  Database.exe.config
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exercise13 -  Database\bin\Debug\Exercise13 -  Database.exe
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exercise13 -  Database\bin\Debug\Exercise13 -  Database.pdb
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exercise13 -  Database\bin\Debug\Exercise13 -  Database.xml
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exercise13 -  Database\obj\Debug\Exercise13 -  Database.exe
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exercise13 -  Database\obj\Debug\Exercise13 -  Database.xml
+C:\Users\hafiz\Documents\GitHub\HS_VP\Exercise13 -  Database\obj\Debug\Exercise13 -  Database.pdb
