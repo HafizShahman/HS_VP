@@ -1,0 +1,10 @@
+D:\Work\GitHub\HS_VP\LabTask4_19DDT18F2070\bin\Debug\LabTask4_19DDT18F2070.exe.config
+D:\Work\GitHub\HS_VP\LabTask4_19DDT18F2070\bin\Debug\LabTask4_19DDT18F2070.exe
+D:\Work\GitHub\HS_VP\LabTask4_19DDT18F2070\bin\Debug\LabTask4_19DDT18F2070.pdb
+D:\Work\GitHub\HS_VP\LabTask4_19DDT18F2070\obj\Debug\LabTask4_19DDT18F2070.csproj.AssemblyReference.cache
+D:\Work\GitHub\HS_VP\LabTask4_19DDT18F2070\obj\Debug\LabTask4_19DDT18F2070.Form1.resources
+D:\Work\GitHub\HS_VP\LabTask4_19DDT18F2070\obj\Debug\LabTask4_19DDT18F2070.Properties.Resources.resources
+D:\Work\GitHub\HS_VP\LabTask4_19DDT18F2070\obj\Debug\LabTask4_19DDT18F2070.csproj.GenerateResource.cache
+D:\Work\GitHub\HS_VP\LabTask4_19DDT18F2070\obj\Debug\LabTask4_19DDT18F2070.csproj.CoreCompileInputs.cache
+D:\Work\GitHub\HS_VP\LabTask4_19DDT18F2070\obj\Debug\LabTask4_19DDT18F2070.exe
+D:\Work\GitHub\HS_VP\LabTask4_19DDT18F2070\obj\Debug\LabTask4_19DDT18F2070.pdb
