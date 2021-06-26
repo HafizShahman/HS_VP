@@ -11,3 +11,21 @@ C:\Users\hafiz\Documents\GitHub\HS_VP\Project\Project\obj\Debug\Project.exe
 C:\Users\hafiz\Documents\GitHub\HS_VP\Project\Project\obj\Debug\Project.xml
 C:\Users\hafiz\Documents\GitHub\HS_VP\Project\Project\obj\Debug\Project.pdb
 C:\Users\hafiz\Documents\GitHub\HS_VP\Project\Project\obj\Debug\Project.Form2.resources
+D:\Work\GitHub\HS_VP\Project\Project\obj\Debug\Project.vbproj.AssemblyReference.cache
+D:\Work\GitHub\HS_VP\Project\Project\obj\Debug\Project.Resources.resources
+D:\Work\GitHub\HS_VP\Project\Project\obj\Debug\Project.vbproj.GenerateResource.cache
+D:\Work\GitHub\HS_VP\Project\Project\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+D:\Work\GitHub\HS_VP\Project\Project\obj\Debug\Project.BookList.resources
+D:\Work\GitHub\HS_VP\Project\Project\obj\Debug\Project.Login.resources
+D:\Work\GitHub\HS_VP\Project\Project\obj\Debug\Project.NewBook.resources
+D:\Work\GitHub\HS_VP\Project\Project\obj\Debug\Project.RegisterUser.resources
+D:\Work\GitHub\HS_VP\Project\Project\obj\Debug\Project.SplashScreen.resources
+D:\Work\GitHub\HS_VP\Project\Project\obj\Debug\Project.AboutBox1.resources
+D:\Work\GitHub\HS_VP\Project\Project\obj\Debug\Project.UpdateBook.resources
+D:\Work\GitHub\HS_VP\Project\Project\bin\Debug\Library Management.exe.config
+D:\Work\GitHub\HS_VP\Project\Project\bin\Debug\Library Management.exe
+D:\Work\GitHub\HS_VP\Project\Project\bin\Debug\Library Management.pdb
+D:\Work\GitHub\HS_VP\Project\Project\bin\Debug\Library Management.xml
+D:\Work\GitHub\HS_VP\Project\Project\obj\Debug\Library Management.exe
+D:\Work\GitHub\HS_VP\Project\Project\obj\Debug\Library Management.xml
+D:\Work\GitHub\HS_VP\Project\Project\obj\Debug\Library Management.pdb

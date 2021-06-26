@@ -8,11 +8,11 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("Project")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyTitle("Library Management")>
+<Assembly: AssemblyDescription("Software for book inside the library. user can add new book, update book details, delete book, and check book listed in system.")>
+<Assembly: AssemblyCompany("SBrokoli")>
 <Assembly: AssemblyProduct("Project")>
-<Assembly: AssemblyCopyright("Copyright ©  2021")>
+<Assembly: AssemblyCopyright("Copyright ©  DDT5A 2021")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
