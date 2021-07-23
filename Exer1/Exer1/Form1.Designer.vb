@@ -84,7 +84,7 @@ Partial Class Form1
         'Button1
         '
         Me.Button1.Location = New System.Drawing.Point(181, 148)
-        Me.Button1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Button1.Margin = New System.Windows.Forms.Padding(4)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(100, 28)
         Me.Button1.TabIndex = 1
@@ -94,7 +94,7 @@ Partial Class Form1
         'Button2
         '
         Me.Button2.Location = New System.Drawing.Point(79, 107)
-        Me.Button2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Button2.Margin = New System.Windows.Forms.Padding(4)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(100, 28)
         Me.Button2.TabIndex = 2
@@ -106,9 +106,9 @@ Partial Class Form1
         Me.GroupBox1.BackColor = System.Drawing.SystemColors.ActiveBorder
         Me.GroupBox1.Controls.Add(Me.Button2)
         Me.GroupBox1.Location = New System.Drawing.Point(640, 28)
-        Me.GroupBox1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.GroupBox1.Margin = New System.Windows.Forms.Padding(4)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Padding = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.GroupBox1.Padding = New System.Windows.Forms.Padding(4)
         Me.GroupBox1.Size = New System.Drawing.Size(272, 240)
         Me.GroupBox1.TabIndex = 3
         Me.GroupBox1.TabStop = False
@@ -120,9 +120,9 @@ Partial Class Form1
         Me.GroupBox2.Controls.Add(Me.lblOutput)
         Me.GroupBox2.Controls.Add(Me.Button1)
         Me.GroupBox2.Location = New System.Drawing.Point(139, 13)
-        Me.GroupBox2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.GroupBox2.Margin = New System.Windows.Forms.Padding(4)
         Me.GroupBox2.Name = "GroupBox2"
-        Me.GroupBox2.Padding = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.GroupBox2.Padding = New System.Windows.Forms.Padding(4)
         Me.GroupBox2.Size = New System.Drawing.Size(456, 255)
         Me.GroupBox2.TabIndex = 4
         Me.GroupBox2.TabStop = False
@@ -135,7 +135,7 @@ Partial Class Form1
         Me.TabControl1.Controls.Add(Me.TabPage3)
         Me.TabControl1.Controls.Add(Me.TabPage4)
         Me.TabControl1.Location = New System.Drawing.Point(183, 276)
-        Me.TabControl1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TabControl1.Margin = New System.Windows.Forms.Padding(4)
         Me.TabControl1.Name = "TabControl1"
         Me.TabControl1.SelectedIndex = 0
         Me.TabControl1.Size = New System.Drawing.Size(677, 233)
@@ -154,9 +154,9 @@ Partial Class Form1
         Me.TabPage1.Controls.Add(Me.Label2)
         Me.TabPage1.Controls.Add(Me.Label1)
         Me.TabPage1.Location = New System.Drawing.Point(4, 25)
-        Me.TabPage1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TabPage1.Margin = New System.Windows.Forms.Padding(4)
         Me.TabPage1.Name = "TabPage1"
-        Me.TabPage1.Padding = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TabPage1.Padding = New System.Windows.Forms.Padding(4)
         Me.TabPage1.Size = New System.Drawing.Size(669, 204)
         Me.TabPage1.TabIndex = 0
         Me.TabPage1.Text = "TabPage1"
@@ -164,7 +164,7 @@ Partial Class Form1
         'btnCal
         '
         Me.btnCal.Location = New System.Drawing.Point(320, 92)
-        Me.btnCal.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btnCal.Margin = New System.Windows.Forms.Padding(4)
         Me.btnCal.Name = "btnCal"
         Me.btnCal.Size = New System.Drawing.Size(228, 57)
         Me.btnCal.TabIndex = 8
@@ -174,7 +174,7 @@ Partial Class Form1
         'txtProfit
         '
         Me.txtProfit.Location = New System.Drawing.Point(120, 146)
-        Me.txtProfit.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.txtProfit.Margin = New System.Windows.Forms.Padding(4)
         Me.txtProfit.Name = "txtProfit"
         Me.txtProfit.Size = New System.Drawing.Size(145, 22)
         Me.txtProfit.TabIndex = 7
@@ -182,7 +182,7 @@ Partial Class Form1
         'txtUnit
         '
         Me.txtUnit.Location = New System.Drawing.Point(120, 84)
-        Me.txtUnit.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.txtUnit.Margin = New System.Windows.Forms.Padding(4)
         Me.txtUnit.Name = "txtUnit"
         Me.txtUnit.Size = New System.Drawing.Size(145, 22)
         Me.txtUnit.TabIndex = 6
@@ -190,7 +190,7 @@ Partial Class Form1
         'txtCost
         '
         Me.txtCost.Location = New System.Drawing.Point(120, 52)
-        Me.txtCost.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.txtCost.Margin = New System.Windows.Forms.Padding(4)
         Me.txtCost.Name = "txtCost"
         Me.txtCost.Size = New System.Drawing.Size(145, 22)
         Me.txtCost.TabIndex = 5
@@ -198,7 +198,7 @@ Partial Class Form1
         'txtPrice
         '
         Me.txtPrice.Location = New System.Drawing.Point(120, 20)
-        Me.txtPrice.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.txtPrice.Margin = New System.Windows.Forms.Padding(4)
         Me.txtPrice.Name = "txtPrice"
         Me.txtPrice.Size = New System.Drawing.Size(145, 22)
         Me.txtPrice.TabIndex = 4
@@ -254,9 +254,9 @@ Partial Class Form1
         Me.TabPage2.Controls.Add(Me.Label6)
         Me.TabPage2.Controls.Add(Me.Label5)
         Me.TabPage2.Location = New System.Drawing.Point(4, 25)
-        Me.TabPage2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TabPage2.Margin = New System.Windows.Forms.Padding(4)
         Me.TabPage2.Name = "TabPage2"
-        Me.TabPage2.Padding = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TabPage2.Padding = New System.Windows.Forms.Padding(4)
         Me.TabPage2.Size = New System.Drawing.Size(669, 204)
         Me.TabPage2.TabIndex = 1
         Me.TabPage2.Text = "TabPage2"
@@ -264,7 +264,7 @@ Partial Class Form1
         'btnCal2
         '
         Me.btnCal2.Location = New System.Drawing.Point(320, 84)
-        Me.btnCal2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btnCal2.Margin = New System.Windows.Forms.Padding(4)
         Me.btnCal2.Name = "btnCal2"
         Me.btnCal2.Size = New System.Drawing.Size(140, 58)
         Me.btnCal2.TabIndex = 6
@@ -274,7 +274,7 @@ Partial Class Form1
         'txtSpeed
         '
         Me.txtSpeed.Location = New System.Drawing.Point(141, 140)
-        Me.txtSpeed.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.txtSpeed.Margin = New System.Windows.Forms.Padding(4)
         Me.txtSpeed.Name = "txtSpeed"
         Me.txtSpeed.Size = New System.Drawing.Size(169, 22)
         Me.txtSpeed.TabIndex = 5
@@ -282,7 +282,7 @@ Partial Class Form1
         'txtTime
         '
         Me.txtTime.Location = New System.Drawing.Point(141, 60)
-        Me.txtTime.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.txtTime.Margin = New System.Windows.Forms.Padding(4)
         Me.txtTime.Name = "txtTime"
         Me.txtTime.Size = New System.Drawing.Size(169, 22)
         Me.txtTime.TabIndex = 4
@@ -290,7 +290,7 @@ Partial Class Form1
         'txtDis
         '
         Me.txtDis.Location = New System.Drawing.Point(141, 27)
-        Me.txtDis.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.txtDis.Margin = New System.Windows.Forms.Padding(4)
         Me.txtDis.Name = "txtDis"
         Me.txtDis.Size = New System.Drawing.Size(169, 22)
         Me.txtDis.TabIndex = 3
@@ -334,9 +334,9 @@ Partial Class Form1
         Me.TabPage3.Controls.Add(Me.Label9)
         Me.TabPage3.Controls.Add(Me.Label8)
         Me.TabPage3.Location = New System.Drawing.Point(4, 25)
-        Me.TabPage3.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TabPage3.Margin = New System.Windows.Forms.Padding(4)
         Me.TabPage3.Name = "TabPage3"
-        Me.TabPage3.Padding = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TabPage3.Padding = New System.Windows.Forms.Padding(4)
         Me.TabPage3.Size = New System.Drawing.Size(669, 204)
         Me.TabPage3.TabIndex = 2
         Me.TabPage3.Text = "TabPage3"
@@ -344,7 +344,7 @@ Partial Class Form1
         'txtFahr
         '
         Me.txtFahr.Location = New System.Drawing.Point(195, 54)
-        Me.txtFahr.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.txtFahr.Margin = New System.Windows.Forms.Padding(4)
         Me.txtFahr.Name = "txtFahr"
         Me.txtFahr.Size = New System.Drawing.Size(132, 22)
         Me.txtFahr.TabIndex = 5
@@ -352,7 +352,7 @@ Partial Class Form1
         'btnConvert
         '
         Me.btnConvert.Location = New System.Drawing.Point(399, 69)
-        Me.btnConvert.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btnConvert.Margin = New System.Windows.Forms.Padding(4)
         Me.btnConvert.Name = "btnConvert"
         Me.btnConvert.Size = New System.Drawing.Size(137, 52)
         Me.btnConvert.TabIndex = 4
@@ -362,7 +362,7 @@ Partial Class Form1
         'txtCel
         '
         Me.txtCel.Location = New System.Drawing.Point(195, 122)
-        Me.txtCel.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.txtCel.Margin = New System.Windows.Forms.Padding(4)
         Me.txtCel.Name = "txtCel"
         Me.txtCel.Size = New System.Drawing.Size(132, 22)
         Me.txtCel.TabIndex = 2
@@ -400,9 +400,9 @@ Partial Class Form1
         Me.TabPage4.Controls.Add(Me.txtCos)
         Me.TabPage4.Controls.Add(Me.txtDist)
         Me.TabPage4.Location = New System.Drawing.Point(4, 25)
-        Me.TabPage4.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TabPage4.Margin = New System.Windows.Forms.Padding(4)
         Me.TabPage4.Name = "TabPage4"
-        Me.TabPage4.Padding = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TabPage4.Padding = New System.Windows.Forms.Padding(4)
         Me.TabPage4.Size = New System.Drawing.Size(669, 204)
         Me.TabPage4.TabIndex = 3
         Me.TabPage4.Text = "TabPage4"
@@ -410,7 +410,7 @@ Partial Class Form1
         'btnCalParcel
         '
         Me.btnCalParcel.Location = New System.Drawing.Point(479, 116)
-        Me.btnCalParcel.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btnCalParcel.Margin = New System.Windows.Forms.Padding(4)
         Me.btnCalParcel.Name = "btnCalParcel"
         Me.btnCalParcel.Size = New System.Drawing.Size(133, 58)
         Me.btnCalParcel.TabIndex = 8
@@ -460,7 +460,7 @@ Partial Class Form1
         'txtCDel
         '
         Me.txtCDel.Location = New System.Drawing.Point(215, 169)
-        Me.txtCDel.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.txtCDel.Margin = New System.Windows.Forms.Padding(4)
         Me.txtCDel.Name = "txtCDel"
         Me.txtCDel.Size = New System.Drawing.Size(232, 22)
         Me.txtCDel.TabIndex = 3
@@ -468,7 +468,7 @@ Partial Class Form1
         'txtWeight
         '
         Me.txtWeight.Location = New System.Drawing.Point(215, 98)
-        Me.txtWeight.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.txtWeight.Margin = New System.Windows.Forms.Padding(4)
         Me.txtWeight.Name = "txtWeight"
         Me.txtWeight.Size = New System.Drawing.Size(232, 22)
         Me.txtWeight.TabIndex = 2
@@ -476,7 +476,7 @@ Partial Class Form1
         'txtCos
         '
         Me.txtCos.Location = New System.Drawing.Point(215, 65)
-        Me.txtCos.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.txtCos.Margin = New System.Windows.Forms.Padding(4)
         Me.txtCos.Name = "txtCos"
         Me.txtCos.Size = New System.Drawing.Size(232, 22)
         Me.txtCos.TabIndex = 1
@@ -484,7 +484,7 @@ Partial Class Form1
         'txtDist
         '
         Me.txtDist.Location = New System.Drawing.Point(215, 32)
-        Me.txtDist.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.txtDist.Margin = New System.Windows.Forms.Padding(4)
         Me.txtDist.Name = "txtDist"
         Me.txtDist.Size = New System.Drawing.Size(232, 22)
         Me.txtDist.TabIndex = 0
@@ -498,8 +498,9 @@ Partial Class Form1
         Me.Controls.Add(Me.TabControl1)
         Me.Controls.Add(Me.GroupBox2)
         Me.Controls.Add(Me.GroupBox1)
-        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Margin = New System.Windows.Forms.Padding(4)
         Me.Name = "Form1"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Form1"
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox2.ResumeLayout(False)

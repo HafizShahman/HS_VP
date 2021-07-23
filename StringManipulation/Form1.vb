@@ -1,4 +1,5 @@
 ﻿Public Class Form1
+
     Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
         Dim MyString As String = "Kuala Terengganu"
         Label1.Text = UCase(MyString)
@@ -59,9 +60,17 @@
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        Dim str As String
-        str = "VB.NET TOP 10 BOOKS"
-        MsgBox(str.IndexOf("BOOKS"))
+        Dim A, B As Integer
+        B = 0
+        For A = 9 To 2 Step -1
+            If A Mod 2 = 0 Then
+                B = B + A
+            End If
+        Next
+
+        MessageBox.Show(B)
 
     End Sub
+
+
 End Class

@@ -12,3 +12,17 @@ C:\Users\hafiz\Documents\GitHub\HS_VP\Exercise11\obj\Debug\Exercise11.exe
 C:\Users\hafiz\Documents\GitHub\HS_VP\Exercise11\obj\Debug\Exercise11.xml
 C:\Users\hafiz\Documents\GitHub\HS_VP\Exercise11\obj\Debug\Exercise11.pdb
 C:\Users\hafiz\Documents\GitHub\HS_VP\Exercise11\obj\Debug\Exercise11.Form3.resources
+D:\Work\GitHub\HS_VP\Exercise11\bin\Debug\Exercise11.exe.config
+D:\Work\GitHub\HS_VP\Exercise11\bin\Debug\Exercise11.exe
+D:\Work\GitHub\HS_VP\Exercise11\bin\Debug\Exercise11.pdb
+D:\Work\GitHub\HS_VP\Exercise11\bin\Debug\Exercise11.xml
+D:\Work\GitHub\HS_VP\Exercise11\obj\Debug\Exercise11.vbproj.AssemblyReference.cache
+D:\Work\GitHub\HS_VP\Exercise11\obj\Debug\Exercise11.Form1.resources
+D:\Work\GitHub\HS_VP\Exercise11\obj\Debug\Exercise11.Form2.resources
+D:\Work\GitHub\HS_VP\Exercise11\obj\Debug\Exercise11.Form3.resources
+D:\Work\GitHub\HS_VP\Exercise11\obj\Debug\Exercise11.Resources.resources
+D:\Work\GitHub\HS_VP\Exercise11\obj\Debug\Exercise11.vbproj.GenerateResource.cache
+D:\Work\GitHub\HS_VP\Exercise11\obj\Debug\Exercise11.vbproj.CoreCompileInputs.cache
+D:\Work\GitHub\HS_VP\Exercise11\obj\Debug\Exercise11.exe
+D:\Work\GitHub\HS_VP\Exercise11\obj\Debug\Exercise11.xml
+D:\Work\GitHub\HS_VP\Exercise11\obj\Debug\Exercise11.pdb
